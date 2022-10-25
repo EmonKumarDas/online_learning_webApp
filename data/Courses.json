@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name": "JavaScript",
+        "amount": 1500,
+        "rating": 4.5,
+        "image": "https://c4.wallpaperflare.com/wallpaper/562/372/1012/programmers-javascript-minimalism-wallpaper-preview.jpg"
+    },
+    {
+        "id":2,
+        "name": "AngularJS",
+        "amount": 2500,
+        "rating": 4.0,
+        "image": "https://c4.wallpaperflare.com/wallpaper/10/887/781/angular-javascript-html-wallpaper-preview.jpg"
+    },
+    {
+        "id":3,
+        "name": "ReactJS",
+        "amount": 3500,
+        "rating": 5.0,
+        "image": "https://c4.wallpaperflare.com/wallpaper/111/745/193/reactjs-javascript-programming-programming-language-hd-wallpaper-preview.jpg"
+    },
+    {
+        "id":4,
+        "name": "NodeJS",
+        "amount": 2000,
+        "rating": 3.5,
+        "image": "https://c4.wallpaperflare.com/wallpaper/570/369/129/node-js-javascript-hexagon-abstract-wallpaper-preview.jpg"
+    },
+    {
+        "id":5,
+        "name": "Java",
+        "amount": 3000,
+        "rating": 4.5,
+        "image": "https://c4.wallpaperflare.com/wallpaper/562/815/793/java-minimalism-programmers-programming-language-cup-hd-wallpaper-preview.jpg"
+    },
+    {
+        "id":1,
+        "name": "JavaScript",
+        "amount": 1500,
+        "rating": 4.5,
+        "image": "https://c4.wallpaperflare.com/wallpaper/562/372/1012/programmers-javascript-minimalism-wallpaper-preview.jpg"
+    }
+]
