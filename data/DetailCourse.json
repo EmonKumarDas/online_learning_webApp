@@ -1,0 +1,20 @@
+[
+    {
+        "id":1,
+        "course_id":"qwdhg1234ljsdfk342f",
+        "content": [
+            {
+                "title":"Introduction",
+                "video_":"https://www.youtube.com/embed/B7wHpNUUT4Y"
+            },
+            {
+                "title":"declare variables in javascript",
+                "video_":"https://www.youtube.com/embed/MAOD1BZI8do"
+            }
+        ],
+        "name": "JavaScript",
+        "amount": 1500,
+        "rating": 4.5,
+        "image": "https://c4.wallpaperflare.com/wallpaper/562/372/1012/programmers-javascript-minimalism-wallpaper-preview.jpg"
+    }
+]
