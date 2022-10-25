@@ -15,6 +15,7 @@
         "name": "JavaScript",
         "amount": 1500,
         "rating": 4.5,
+        "description":"JavaScript is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well.",
         "image": "https://c4.wallpaperflare.com/wallpaper/562/372/1012/programmers-javascript-minimalism-wallpaper-preview.jpg"
     },
     {
@@ -33,6 +34,7 @@
         "name": "AngularJS",
         "amount": 1500,
         "rating": 4.5,
+        "description":"AngularJS is a structural framework for dynamic web apps. It lets you use HTML as your template language and lets you extend HTML's syntax to express your application's components clearly and succinctly. AngularJS's data binding and dependency injection eliminate much of the code you would otherwise have to write.",
         "image": "https://c4.wallpaperflare.com/wallpaper/562/372/1012/programmers-javascript-minimalism-wallpaper-preview.jpg"
     },
     {
@@ -51,6 +53,7 @@
         "name": "ReactJS",
         "amount": 1500,
         "rating": 4.5,
+        "description":"React (also known as React. js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.",
         "image": "https://c4.wallpaperflare.com/wallpaper/562/372/1012/programmers-javascript-minimalism-wallpaper-preview.jpg"
     },
     {
@@ -69,6 +72,7 @@
         "name": "NodeJS",
         "amount": 1500,
         "rating": 4.5,
+        "description":"Node. js (Node) is an open source development platform for executing JavaScript code server-side. Node is useful for developing applications that require a persistent connection from the browser to the server and is often used for real-time applications such as chat, news feeds and web push notifications.",
         "image": "https://c4.wallpaperflare.com/wallpaper/562/372/1012/programmers-javascript-minimalism-wallpaper-preview.jpg"
     },
     {
@@ -87,6 +91,7 @@
         "name": "Java",
         "amount": 1500,
         "rating": 4.5,
+        "description":"Java is a widely used object-oriented programming language and software platform that runs on billions of devices, including notebook computers, mobile devices, gaming consoles, medical devices and many others. The rules and syntax of Java are based on the C and C++ languages.",
         "image": "https://c4.wallpaperflare.com/wallpaper/562/372/1012/programmers-javascript-minimalism-wallpaper-preview.jpg"
     },
     {
@@ -105,6 +110,7 @@
         "name": "HTML",
         "amount": 1500,
         "rating": 4.5,
+        "description":"HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web page's appearance/presentation (CSS) or functionality/behavior (JavaScript).",
         "image": "https://c4.wallpaperflare.com/wallpaper/562/372/1012/programmers-javascript-minimalism-wallpaper-preview.jpg"
     }
 ]
