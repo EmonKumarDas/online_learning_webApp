@@ -16,5 +16,95 @@
         "amount": 1500,
         "rating": 4.5,
         "image": "https://c4.wallpaperflare.com/wallpaper/562/372/1012/programmers-javascript-minimalism-wallpaper-preview.jpg"
+    },
+    {
+        "id":2,
+        "course_id":"qwzxcds1234ljsdfk342f",
+        "content": [
+            {
+                "title":"Introduction",
+                "video_":"https://www.youtube.com/embed/B7wHpNUUT4Y"
+            },
+            {
+                "title":"declare variables in AngularJS",
+                "video_":"https://www.youtube.com/embed/MAOD1BZI8do"
+            }
+        ],
+        "name": "AngularJS",
+        "amount": 1500,
+        "rating": 4.5,
+        "image": "https://c4.wallpaperflare.com/wallpaper/562/372/1012/programmers-javascript-minimalism-wallpaper-preview.jpg"
+    },
+    {
+        "id":3,
+        "course_id":"qwdhg1234lj9854ertfk342f",
+        "content": [
+            {
+                "title":"Introduction",
+                "video_":"https://www.youtube.com/embed/B7wHpNUUT4Y"
+            },
+            {
+                "title":"declare variables in ReactJS",
+                "video_":"https://www.youtube.com/embed/MAOD1BZI8do"
+            }
+        ],
+        "name": "ReactJS",
+        "amount": 1500,
+        "rating": 4.5,
+        "image": "https://c4.wallpaperflare.com/wallpaper/562/372/1012/programmers-javascript-minimalism-wallpaper-preview.jpg"
+    },
+    {
+        "id":4,
+        "course_id":"demon12g1234ljsdfk342f",
+        "content": [
+            {
+                "title":"Introduction",
+                "video_":"https://www.youtube.com/embed/B7wHpNUUT4Y"
+            },
+            {
+                "title":"declare variables in NodeJS",
+                "video_":"https://www.youtube.com/embed/MAOD1BZI8do"
+            }
+        ],
+        "name": "NodeJS",
+        "amount": 1500,
+        "rating": 4.5,
+        "image": "https://c4.wallpaperflare.com/wallpaper/562/372/1012/programmers-javascript-minimalism-wallpaper-preview.jpg"
+    },
+    {
+        "id":5,
+        "course_id":"qwdhg123zasxert546k342f",
+        "content": [
+            {
+                "title":"Introduction",
+                "video_":"https://www.youtube.com/embed/B7wHpNUUT4Y"
+            },
+            {
+                "title":"declare variables in Java",
+                "video_":"https://www.youtube.com/embed/MAOD1BZI8do"
+            }
+        ],
+        "name": "Java",
+        "amount": 1500,
+        "rating": 4.5,
+        "image": "https://c4.wallpaperflare.com/wallpaper/562/372/1012/programmers-javascript-minimalism-wallpaper-preview.jpg"
+    },
+    {
+        "id":6,
+        "course_id":"qwdhg1234ljsdfkqwcbnmkj34",
+        "content": [
+            {
+                "title":"Introduction",
+                "video_":"https://www.youtube.com/embed/B7wHpNUUT4Y"
+            },
+            {
+                "title":"declare variables in HTML",
+                "video_":"https://www.youtube.com/embed/MAOD1BZI8do"
+            }
+        ],
+        "name": "HTML",
+        "amount": 1500,
+        "rating": 4.5,
+        "image": "https://c4.wallpaperflare.com/wallpaper/562/372/1012/programmers-javascript-minimalism-wallpaper-preview.jpg"
     }
 ]
