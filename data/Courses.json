@@ -35,10 +35,10 @@
         "image": "https://c4.wallpaperflare.com/wallpaper/562/815/793/java-minimalism-programmers-programming-language-cup-hd-wallpaper-preview.jpg"
     },
     {
-        "id":1,
-        "name": "JavaScript",
-        "amount": 1500,
-        "rating": 4.5,
-        "image": "https://c4.wallpaperflare.com/wallpaper/562/372/1012/programmers-javascript-minimalism-wallpaper-preview.jpg"
+        "id":6,
+        "name": "HTML",
+        "amount": 2300,
+        "rating": 4.0,
+        "image": "https://c4.wallpaperflare.com/wallpaper/453/129/282/html5-hyper-text-markup-language-html-wallpaper-preview.jpg"
     }
 ]
